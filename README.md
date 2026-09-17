@@ -95,7 +95,7 @@ Desde la carpeta principal del proyecto:
 ```bash
 git init
 git add .
-git commit -m "feat: proyecto full-stack AlDia"
+git commit -m "Proyecto full-stack AlDia"
 git branch -M main
 git remote add origin URL_DEL_REPOSITORIO
 git push -u origin main
