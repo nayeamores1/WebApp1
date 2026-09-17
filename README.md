@@ -2,6 +2,12 @@
 
 Aplicación web full-stack para organizar proyectos académicos de diseño. Permite crear, consultar, editar, completar y eliminar entregas, además de filtrarlas y buscarlas.
 
+## Enlaces del proyecto
+
+- Aplicación web: https://web-app1-7dzkbhnyf-direct-line.vercel.app/
+- Backend: https://aldia-api.onrender.com/
+- Repositorio: https://github.com/nayeamores1/WebApp1
+
 ## Tecnologías
 
 - Frontend: React, TypeScript, Vite y CSS.
@@ -99,3 +105,4 @@ git commit -m "Proyecto full-stack AlDia"
 git branch -M main
 git remote add origin URL_DEL_REPOSITORIO
 git push -u origin main
+```
