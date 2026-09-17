@@ -4,7 +4,7 @@ Aplicación web full-stack para organizar proyectos académicos de diseño. Perm
 
 ## Enlaces del proyecto
 
-- Aplicación web: https://web-app1-7dzkbhnyf-direct-line.vercel.app/
+- Aplicación web: https://web-app1-fawn.vercel.app/
 - Backend: https://aldia-api.onrender.com/
 - Repositorio: https://github.com/nayeamores1/WebApp1
 
